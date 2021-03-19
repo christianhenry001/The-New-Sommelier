@@ -1,0 +1,51 @@
+body {
+    font-family: 'Shippori Mincho B1', serif;
+}
+
+.jumbotron {
+    background-color: black;
+}
+
+.headerFooterText {
+    color: whitesmoke;
+}
+
+.row-content {
+    padding: 50px;
+}
+
+p {
+    font-size: large;
+}
+
+nav .navbar-nav li a{
+    color: rgb(170, 13, 13) !important;
+    font-weight: bold;
+    }
+
+a {
+    color: rgb(170, 13, 13);
+}
+
+.card,.card-header {
+    background-color: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    margin-bottom: 20px;
+}
+
+.card {
+    box-shadow: 0 2px 20px 0 rgba(110,130,208, .18);
+}
+
+button {
+    color: rgb(170, 13, 13) !important;
+}
+
+#carouselHeading {
+    font-weight: bold;
+}
+
+.navbar-toggler-icon {
+    color: rgb(170, 13, 13) !important;
+}
